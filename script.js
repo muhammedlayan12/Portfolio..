@@ -1,9 +1,10 @@
 var typed = new Typed(".typing", {
-    strings: ["Web Designer", "Frontend Developer", "Web Application Developer"],
+    strings: ["Front-end Developer", "UI / UX Designer", "SEO Expert" , "Wordpress Developer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
 });
+
 
 document.addEventListener('DOMContentLoaded', function() {
     const navLinks = document.querySelectorAll('.aside .nav li a');
